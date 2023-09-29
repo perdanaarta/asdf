@@ -1,0 +1,2 @@
+class Config:
+    HI="test"
